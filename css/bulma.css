@@ -3088,7 +3088,7 @@ a.tag:hover {
 
 .title {
   color: #363636;
-  font-size: 2rem;
+  font-size: 3rem;
   font-weight: 600;
   line-height: 1.125;
 }
@@ -3135,14 +3135,15 @@ a.tag:hover {
 }
 
 .subtitle {
-  color: #4a4a4a;
-  font-size: 1.25rem;
+  color: #6b6b6b;
+  font-size: 1rem;
   font-weight: 400;
   line-height: 1.25;
+  text-transform: uppercase;
 }
 
 .subtitle strong {
-  color: #363636;
+  color: #6b6b6b;
   font-weight: 600;
 }
 
