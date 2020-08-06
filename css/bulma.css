@@ -10039,6 +10039,10 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
   color: #ec3561;
 }
 
+.is-lightgrey{
+  color: #f7f6f1;
+}
+
 .is-block {
   display: block !important;
 }
