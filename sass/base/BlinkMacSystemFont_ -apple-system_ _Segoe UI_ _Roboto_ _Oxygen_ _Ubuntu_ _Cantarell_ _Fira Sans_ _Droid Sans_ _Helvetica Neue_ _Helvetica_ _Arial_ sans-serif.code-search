@@ -1,0 +1,18 @@
+# Query: BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+
+9 results - 3 files
+
+css/bulma-rtl.css:
+  344:   font-family: BlinkMacSystemFont, -apple-system, "Fira Sans", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  9991:   font-family: BlinkMacSystemFont, -apple-system, "Fira Sans", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+  9995:   font-family: BlinkMacSystemFont, -apple-system, "Fira Sans", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+  9999:   font-family: BlinkMacSystemFont, -apple-system, "SFira Sans", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+
+css/bulma.css:
+  344:   font-family: BlinkMacSystemFont, -apple-system, "Fira Sans", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  9993:   font-family: BlinkMacSystemFont, -apple-system, "Fira Sans", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+  9997:   font-family: BlinkMacSystemFont, -apple-system, "Fira Sans", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+  10001:   font-family: BlinkMacSystemFont, -apple-system, "Fira Sans", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+
+sass/utilities/initial-variables.sass:
+  29: $family-sans-serif: BlinkMacSystemFont, -apple-system, "Fira Sans", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !default

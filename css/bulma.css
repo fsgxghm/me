@@ -341,7 +341,8 @@ button,
 input,
 select,
 textarea {
-  font-family: BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  font-family: "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+
 }
 
 code,
@@ -5285,7 +5286,7 @@ button.dropdown-item.is-active {
 }
 
 .navbar.is-white {
-  background-color: white;
+  background-color: #f7f6f1;
   color: #0a0a0a;
 }
 
@@ -5298,12 +5299,12 @@ button.dropdown-item.is-active {
 .navbar.is-white .navbar-brand .navbar-link:focus,
 .navbar.is-white .navbar-brand .navbar-link:hover,
 .navbar.is-white .navbar-brand .navbar-link.is-active {
-  background-color: #f2f2f2;
-  color: #0a0a0a;
+  background-color: #f7f6f1;
+  color: #f7f6f1;
 }
 
 .navbar.is-white .navbar-brand .navbar-link::after {
-  border-color: #0a0a0a;
+  border-color: #f7f6f1;
 }
 
 .navbar.is-white .navbar-burger {
@@ -5327,7 +5328,7 @@ button.dropdown-item.is-active {
   .navbar.is-white .navbar-end .navbar-link:focus,
   .navbar.is-white .navbar-end .navbar-link:hover,
   .navbar.is-white .navbar-end .navbar-link.is-active {
-    background-color: #f2f2f2;
+    background-color:#f7f6f1;
     color: #0a0a0a;
   }
   .navbar.is-white .navbar-start .navbar-link::after,
@@ -5337,7 +5338,7 @@ button.dropdown-item.is-active {
   .navbar.is-white .navbar-item.has-dropdown:focus .navbar-link,
   .navbar.is-white .navbar-item.has-dropdown:hover .navbar-link,
   .navbar.is-white .navbar-item.has-dropdown.is-active .navbar-link {
-    background-color: #f2f2f2;
+    background-color: #f7f6f1;
     color: #0a0a0a;
   }
   .navbar.is-white .navbar-dropdown a.navbar-item.is-active {
@@ -5409,7 +5410,7 @@ button.dropdown-item.is-active {
 }
 
 .navbar.is-light {
-  background-color: whitesmoke;
+  background-color: #f7f6f1;
   color: rgba(0, 0, 0, 0.7);
 }
 
@@ -5422,7 +5423,7 @@ button.dropdown-item.is-active {
 .navbar.is-light .navbar-brand .navbar-link:focus,
 .navbar.is-light .navbar-brand .navbar-link:hover,
 .navbar.is-light .navbar-brand .navbar-link.is-active {
-  background-color: #e8e8e8;
+  background-color: #f7f6f1;
   color: rgba(0, 0, 0, 0.7);
 }
 
@@ -9990,15 +9991,15 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
 }
 
 .is-family-primary {
-  font-family: BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+  font-family: BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif, "Playfair Display", serif;
 }
 
 .is-family-secondary {
-  font-family: BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+  font-family: BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif, "Playfair Display", serif;
 }
 
 .is-family-sans-serif {
-  font-family: BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+  font-family: BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif, "Playfair Display", serif;
 }
 
 .is-family-monospace {
@@ -10008,6 +10009,31 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
 .is-family-code {
   font-family: monospace !important;
 }
+
+.is-family-customize-title-big{
+  font-family: 'Playfair Display', serif;
+  font-weight: 500;
+  font-size: 4rem;
+}
+
+.is-family-customize-title-medium{
+  font-family: 'Playfair Display', serif;
+  font-weight: 700;
+  font-size: 3rem;
+}
+
+.is-family-customize-title-small{
+  font-family: 'Playfair Display', serif;
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+.is-family-customize-subtile{
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 400;
+  font-size: 1.5rem;
+}
+
 
 .is-block {
   display: block !important;
