@@ -10009,9 +10009,11 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
   font-family: monospace !important;
 }
 
+/* customize */
+
 .is-playfair-big{
   font-family: 'Playfair Display', serif;
-  font-weight: 500;
+  font-weight: 800;
   font-size: 4rem;
 }
 
@@ -10033,6 +10035,9 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
   font-size: 1.5rem;
 }
 
+.is-pink{
+  color: #ec3561;
+}
 
 .is-block {
   display: block !important;
