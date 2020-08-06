@@ -452,7 +452,7 @@ table th {
   background-color: #f7f6f1;
   border-radius: 6px;
   /* box-shadow: 0 0.5em 1em -0.125em rgba(10, 10, 10, 0.1), 0 0px 0 1px rgba(10, 10, 10, 0.02); */
-  color: #4a4a4a;
+  color: #0b3954;
   display: block;
   padding: 1.25rem;
 }
@@ -10030,7 +10030,7 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
 }
 
 .is-playfair-subtitle{
-  font-family: 'Fira Sans', sans-serif;
+  font-family: 'Playfair Display', serif;
   font-weight: 400;
   font-size: 1.5rem;
 }
@@ -10045,6 +10045,18 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
 
 .is-maincolor{
   color: #0b3954;
+}
+
+.is-article-container {
+  flex-grow: 1;
+  margin: 0 160px;
+  position: relative;
+  width: auto;
+  border: thin;
+}
+
+.is-divider{
+  border-top: 0.6px solid #ec3561;
 }
 
 .is-block {
