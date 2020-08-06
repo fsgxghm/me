@@ -342,7 +342,6 @@ input,
 select,
 textarea {
   font-family: "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif
-
 }
 
 code,
@@ -10010,25 +10009,25 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
   font-family: monospace !important;
 }
 
-.is-family-customize-title-big{
+.is-playfair-big{
   font-family: 'Playfair Display', serif;
   font-weight: 500;
   font-size: 4rem;
 }
 
-.is-family-customize-title-medium{
+.is-playfair-medium{
   font-family: 'Playfair Display', serif;
   font-weight: 700;
   font-size: 3rem;
 }
 
-.is-family-customize-title-small{
+.is-playfair-small{
   font-family: 'Playfair Display', serif;
-  font-weight: 700;
+  font-weight: 400;
   font-size: 1rem;
 }
 
-.is-family-customize-subtile{
+.is-playfair-subtitle{
   font-family: 'Fira Sans', sans-serif;
   font-weight: 400;
   font-size: 1.5rem;
