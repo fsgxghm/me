@@ -10043,6 +10043,10 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
   color: #cccab9;
 }
 
+.is-maincolor{
+  color: #0b3954;
+}
+
 .is-block {
   display: block !important;
 }
