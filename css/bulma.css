@@ -10049,7 +10049,7 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
 
 .is-article-container {
   flex-grow: 1;
-  margin: 0 160px;
+  margin: 0 4rem;
   position: relative;
   width: auto;
   border: thin;
