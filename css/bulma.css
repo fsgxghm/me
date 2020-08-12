@@ -6928,7 +6928,7 @@ label.panel-block:hover {
   flex-basis: 0;
   flex-grow: 1;
   flex-shrink: 1;
-  padding: 0.75rem;
+  padding: 0.35rem 0.9rem;
 }
 
 .columns.is-mobile > .column.is-narrow {
@@ -10063,6 +10063,12 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
   display: block !important;
 }
 
+.is-selected-work {
+  color: #adac96;
+  font-size: 1rem;
+  padding: 0rem 1rem 1rem 0rem;
+}
+
 @media screen and (max-width: 768px) {
   .is-block-mobile {
     display: block !important;
@@ -11364,15 +11370,15 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
 }
 
 .section {
-  padding: 3rem 1.5rem;
+  padding: 2rem 1.5rem;
 }
 
 @media screen and (min-width: 1024px) {
   .section.is-medium {
-    padding: 9rem 1.5rem;
+    padding: 4rem 1.5rem 0.5rem 1.5rem;
   }
   .section.is-large {
-    padding: 18rem 1.5rem;
+    padding: 9rem 1.5rem;
   }
 }
 
