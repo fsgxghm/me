@@ -10059,6 +10059,11 @@ a.has-text-danger-dark:hover, a.has-text-danger-dark:focus {
   border-top: 0.6px solid #ec3561;
 }
 
+.is-divider-big{
+  border-top: 0.6px solid #0b3954;
+}
+
+
 .is-block {
   display: block !important;
 }
